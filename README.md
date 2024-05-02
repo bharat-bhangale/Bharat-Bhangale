@@ -25,9 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat-bhangale&show_icons=true&locale=en&layout=compact" alt="bharat-bhangale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-bhangale&show_icons=true&locale=en" alt="bharat-bhangale" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bharat-bhangale&show_icons=true&locale=en" alt="bharat-bhangale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-bhangale&" alt="bharat-bhangale" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-bhangale&" alt="bharat-bhangale" /></p>
 
 
 
