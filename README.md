@@ -33,7 +33,7 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-bhangale&themr=dark&show_icons=true&locale=en" alt="bharat-bhangale" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-bhangale&theme=dark&show_icons=true&locale=en" alt="bharat-bhangale" /></p>
 
 <hr>
 
